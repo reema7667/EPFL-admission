@@ -52,11 +52,20 @@ I think INPV could have done a better job on the lecture notes, making them more
 But you mentioned you studied for a whole year academic year, but the test is in Januray?  
 Yes, I did because of Covid they had to push the exam's date to May 2021, instead of January 2021. But we weren't aware of this until the end of December 2020.
 
+A list of private schools that were available in 2020. I advise to contact each school and ask them what material they'll offer, plus how experienced they are.
+INPV- my school: https://inpv.ch Offers online classes.
+École du flon: https://www.ecoleduflon.ch 
+Epsu: https://www.epsu.ch/fr/Page.php?R=3&SR=37 Offers online classes.
+
 
 
 - What did you find hardest about your studies? 
-Lack of resources, a lot of material, and questions that were genuinely hard to solve. The questions are not onlu hard because of the material, but because they are asked in a creative way that I was not used to.
+Lack of resources, a lot of material, and questions that were genuinely hard to solve. The questions are not only hard because of the material, but also because they are asked in a creative way that I was not used to.
 
+- Outline of study:
+
+To be best prepared for the exam, go through all the questions in the homeworks(les séries). Though, don’t do any of the proofs except for the Logic homework in Linear algebra. It’ll save you a ton of time. * Prooving a function is derivable is required. 
+Even though INPV did not go beyond the minimum, I would still recommend to attend a private school. As the guidance and the ability to ask questions to teachers was vital for me.
 
 
 
