@@ -43,20 +43,19 @@ So in total, this is 4 subjects in math, physics, CS that span a year + chemistr
 
 I was a national high-school baccaloreate from Saudi Arabia. So I can only speak for someone who has followed a similar national Curriculum. We follow the basic American national education in Arabic, for comparison. You can look up high-school McGraw Hill.
 
- My school, Institut Privé Voltaire-INPV, thought us by giving us lectures that were too heavliy based on theory, then gave us the same Home work sheets of the CMS. They gave each subject 3 hours/week, 2hr were spent on theory and the last hour was solving around 2 questions of the HW sheets. They also provided monthly Q&As. Each subject at the EPFL, except chemisty & Algebra, has around 21-26 HW sheets, 6-8 questions. Thus, with the limited time, my school gave us two sheets per subject per week. We finished all the material in 14 weeks. I'll leave it to you to imagine of quick the pace was, after you look at the sample questions that are taken out of the sheets here- you'll have to make an account first:
+ My school, Institut Privé Voltaire-INPV, thought us by giving us lectures that were too heavliy based on theory, then gave us the same Home work sheets of the CMS. They gave each subject 3 hours/week, 2hr were spent on theory and the last hour was solving around 2 questions of the HW sheets. They also provided monthly Q&As. Each subject at the EPFL, except chemisty & Algebra, has around 21-26 HW sheets, 6-8 questions. Thus, with the limited time, my school gave us two sheets per subject per week. We finished all the material in 14 weeks. They also provided Lecture notes. I'll leave it to you to imagine how quick the pace was, after you look at the sample questions that are taken out of the sheets here- you'll have to make an account first:
  
 https://courseware.epfl.ch/login?next=/courses/course-v1%3AEPFL%2BadmissionEPFL%2B2020/courseware/dfca8308647f41a8a518e99589fa88d2/140298c01255449ca19d1b49528db5bf/%3Fchild%3Dfirst
 
+I think INPV could have done a better job on the lecture notes, making them more relevant to the questions. I thought it would have been better if we had spent most of our time just solving questions, instead of a lot of theory. their perspective was to let us try the questions first, but I thought the gap between the theory and the questions was too large for this tactic to work well.
 
-
-
-But you mentioned you studied it for a whole year? 
+But you mentioned you studied for a whole year academic year, but the test is in Januray?  
 Yes, I did because of Covid they had to push the exam's date to May 2021, instead of January 2021. But we weren't aware of this until the end of December 2020.
 
 
 
-What did you find hardest about your studies? 
-Lack of resources, a lot of material, and questions that were hard 
+- What did you find hardest about your studies? 
+Lack of resources, a lot of material, and questions that were genuinely hard to solve. The questions are not onlu hard because of the material, but because they are asked in a creative way that I was not used to.
 
 
 
