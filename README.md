@@ -67,5 +67,6 @@ Lack of resources, a lot of material, and questions that were genuinely hard to 
 To be best prepared for the exam, go through all the questions in the homeworks(les séries). Though, don’t do any of the proofs except for the Logic homework in Linear algebra. It’ll save you a ton of time. * Prooving a function is derivable is required. 
 Even though INPV did not go beyond the minimum, I would still recommend to attend a private school. As the guidance and the ability to ask questions to teachers was vital for me.
 
-
+- How did the exam go?
+As I mentioned, I was not able to take the exam due to travel restrictions. But thankfully someone posted about their experience on reddit: https://www.reddit.com/r/EPFL/comments/njxy0a/expérience_aux_examens_dadmission_epfl/
 
